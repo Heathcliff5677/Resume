@@ -54,3 +54,63 @@ section{
   max-width:900px; 
   margin:0px auto; 
 }
+caption{
+     font-weight: bold;
+     font-size: 12px;
+    }
+    body{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    th,td{
+    border:1px solid black;
+    padding: 10px;
+    }
+    
+    table{
+     border-collapse:collapse;
+     border:5px solid blue
+    }
+
+     table {
+        border-collapse: collapse;
+    }
+
+     th, td {
+         border: 1px solid black;
+     }
+    
+    thead th {
+     width:25%;
+     background-color: #333;
+     color:white;
+     font-size: 0.8rem;
+     letter-spacing: 2%;
+    }
+    
+    .cell-highlight{
+     background-color: brown;
+    }
+    
+    tbody tr:nth-child(odd){
+     background-color: #fff;
+    }
+    
+    tbody tr:nth-child(even){
+     background-color: #eee;
+    }
+    
+    tbody th{
+     background-color:gold;
+     color:#fff
+     text-algin:left;
+
+     body {
+  font-family: sans-serif;
+}
+
+     table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+}
