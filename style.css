@@ -109,8 +109,8 @@ caption{
 }
 
      table {
-	border-collapse: collapse;
-	border: 1px solid black;
-	text-align: center;
-	vertical-align: middle;
+      border-collapse: collapse;
+      border: 1px solid black;
+      text-align: center;
+      vertical-align: middle;
 }
